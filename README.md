@@ -1,2 +1,4 @@
 # datascience-class1
-Data science Class 1 work
+Week 1
+Week 2
+
